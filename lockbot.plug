@@ -1,0 +1,9 @@
+[Core]
+Name = Lockbot
+Module = lockbot
+
+[Python]
+Version = 3
+
+[Documentation]
+Description = Keep track of who is editing what
